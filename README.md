@@ -2,8 +2,7 @@
 - 🌱 JAVA 공부
 - 👶🏻 Spring 공부
 - 🐣 경제 공부
-
-
+- 🥺 NEXT-STEP 진행
  
 <!---
 SEUNGBOONG/SEUNGBOONG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
