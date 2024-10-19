@@ -2,7 +2,17 @@
 - 🌱 JAVA 공부
 - 👶🏻 Spring 공부
 - 🐣 경제 공부
-- 🥺 NEXT-STEP 진행
+- 🥺 NEXT-STEP
+- 🥺 우아한테크코스 프리코스
+
+# Stack 
+**Backend**
+
+Java, Spring Boot, JUnit5, Spring Data JPA, Spring REST Docs
+
+DevOps
+
+MySQL, EC2, Docker, Docker-compose, Github Actions
  
 <!---
 SEUNGBOONG/SEUNGBOONG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
