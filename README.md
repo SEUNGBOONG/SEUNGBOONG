@@ -12,7 +12,7 @@ Java, Spring Boot, JUnit5, Spring Data JPA, Spring REST Docs
 
 DevOps
 
-MySQL, EC2, Docker, Docker-compose, Github Actions
+MySQL, EC2, Docker, Docker-compose, Github Actions, CI/CD
  
 <!---
 SEUNGBOONG/SEUNGBOONG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
